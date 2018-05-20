@@ -1,0 +1,11 @@
+Client with min duration: 148
+Client with max duration: 146
+Year with the biggest sum of durations: 2017
+For each client sum of durations:
+code - 148, duration - 5
+code - 145, duration - 35
+code - 146, duration - 50
+For each client count of mounths:
+code - 148, count - 5
+code - 145, count - 35
+code - 146, count - 50
